@@ -5,9 +5,9 @@ This repository serves as a promotional page for visits to high schools where we
 ```javascript
 Software
 ------------------------------------
-| HTML5
+| HTML
 | Javascript
-|   - Chart.js version 4.0.1 (latest)
+|   - Chart version 4.0.1 (latest)
 ```
 
 This is a simple demonstration of the k-means clusterring that should grabs the attention of students. The solution itself is based on GitHub pages, where the whole runtime is implemented in an HTML file by using Javascript and the Chart.js library. For the demonstration, partitioning into only **3 clusters** was used, with the data being pseudo-randomly generated and then the page reloaded.
