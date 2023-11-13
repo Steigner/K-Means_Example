@@ -14,10 +14,6 @@ This is a simple demonstration of the k-means clusterring that should grabs the 
 
 :bookmark_tabs: **Source:** I built the k-means solution on base of a gist from user [**tarunc**](https://gist.github.com/tarunc/3141694) - kmeans.js
 
-## :information_source: Contacts
-
-Martin.Juricek1@vutbr.cz
-
 :red_circle: Brno University of Technology,
 
 :large_blue_circle: Faculty of Mechanical Engineering,
